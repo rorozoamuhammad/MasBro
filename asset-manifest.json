@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MasBro/static/css/main.1d947f7c.css",
+    "main.js": "/MasBro/static/js/main.a83f2a7e.js",
+    "static/js/787.53c71a4c.chunk.js": "/MasBro/static/js/787.53c71a4c.chunk.js",
+    "static/media/pertama.jpg": "/MasBro/static/media/pertama.15aa9c93a6301c4bc78f.jpg",
+    "index.html": "/MasBro/index.html",
+    "main.1d947f7c.css.map": "/MasBro/static/css/main.1d947f7c.css.map",
+    "main.a83f2a7e.js.map": "/MasBro/static/js/main.a83f2a7e.js.map",
+    "787.53c71a4c.chunk.js.map": "/MasBro/static/js/787.53c71a4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d947f7c.css",
+    "static/js/main.a83f2a7e.js"
+  ]
+}
